@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# 노트북을 다시 돌리면 생기는 산출물 (저장소에는 figures/ · results/ 에 정리본만 둔다)
+notebooks/*.png
+notebooks/matrix_*.csv
+notebooks/GSPC_preprocessed_*.csv
+
+# 03 노트북 앞부분(초기 버전)이 만드는 기간 없는 옛 파일
+notebooks/raw_snapshot_GSPC.csv
+notebooks/GSPC_arrays.npz
+notebooks/GSPC_preprocessed.csv
+
+# OS · 편집기
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.Rhistory
+
+# 백업
+*.bak
