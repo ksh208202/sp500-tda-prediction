@@ -170,14 +170,6 @@ jupyter lab notebooks/
 
 ---
 
-## 팀
-
-| 이름 | 담당 |
-|---|---|
-| 김소현 | 전처리 통합, TDA·교차지수 피처, 팀 공통 실험 코드, RandomForest |
-| 조서연 | 전처리 통합, XGBoost |
-| 김소진 | Bagging, GBM |
-| 송다영 | Ridge, Lasso (노트북 미포함 — 결과만 `results/` 에 수록) |
 
 ## 참고문헌
 
