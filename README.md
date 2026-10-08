@@ -177,6 +177,17 @@ TDA 전공 교수님 자문을 바탕으로 H₁ 중심 해석, 피처 제거 �
 
 ---
 
+## 팀
+
+| 이름 | 담당 |
+|---|---|
+| 김소현 | 전처리 통합, TDA·교차지수 피처, 팀 공통 실험 코드, RandomForest |
+| 조서연 | 전처리 통합, XGBoost |
+| 김소진 | Bagging, GBM |
+| 송다영 | Ridge, Lasso (노트북 미포함 — 결과만 `results/` 에 수록) |
+
+---
+
 ## 참고문헌
 
 - Gidea, M., & Katz, Y. (2018). Topological data analysis of financial time series: Landscapes of crashes. *Physica A*, 491, 820–834.
