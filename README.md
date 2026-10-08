@@ -169,6 +169,12 @@ jupyter lab notebooks/
 - TDA 계산(`giotto-tda`)은 윈도우 약 5,000개에 수십 초 걸립니다.
 
 ---
+
+## 향후 과제
+
+TDA 전공 교수님 자문을 바탕으로 H₁ 중심 해석, 피처 제거 재실험, extended persistence 확장을 계획 중입니다.
+→ [`docs/feedback_and_next_steps.md`](docs/feedback_and_next_steps.md)
+
 ---
 
 ## 참고문헌
