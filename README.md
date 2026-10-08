@@ -169,7 +169,7 @@ jupyter lab notebooks/
 - TDA 계산(`giotto-tda`)은 윈도우 약 5,000개에 수십 초 걸립니다.
 
 ---
-
+---
 
 ## 참고문헌
 
